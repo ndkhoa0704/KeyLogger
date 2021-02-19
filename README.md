@@ -1,2 +1,3 @@
 # KeyLogger
- Key Logger python script
+* Simple Key Logger script
+* Only for experiments purposes
